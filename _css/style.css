@@ -23,13 +23,7 @@
     animation: pipe-animation 1.5s infinite linear;
 }
 
-.coin {
-    position: absolute;
-    bottom: 50;
-    margin-top: 500px;
-    width: 30px;
-    animation: coin-animation 1.5s infinite linear
-}
+
 
 /*Personagens e Configurações*/
 
@@ -71,28 +65,28 @@
 .fundo0 {
     position: absolute;
     margin: auto 942px;
-    margin-top: 320px;
+    margin-top: 321px;
     
 }
 
 .fundo1 {
     position: absolute;
     margin: auto -238px;
-    margin-top: 320px;
+    margin-top: 321px;
     
 }
 
 .fundo2 {
     position: absolute;
     margin: auto 155px;
-    margin-top: 320px;
+    margin-top: 321px;
     
 }
 
 .fundo3 {
     position: absolute;
     margin: auto 548px;
-    margin-top: 320px;
+    margin-top: 321px;
     
 }
 
